@@ -1,0 +1,6 @@
+2018-02-25 19:06:58,047:INFO: Creating the dataset...
+2018-02-25 19:06:58,197:INFO: Creating the model...
+2018-02-25 19:06:58,395:INFO: Starting evaluation
+2018-02-25 19:06:58,515:INFO: Restoring parameters from experiments/model2/best_weights/after-epoch-88
+2018-02-25 19:06:58,694:INFO: Restoring parameters from experiments/model2/best_weights/after-epoch-88
+2018-02-25 19:06:58,748:INFO: Restoring parameters from experiments/model2/best_weights/after-epoch-88

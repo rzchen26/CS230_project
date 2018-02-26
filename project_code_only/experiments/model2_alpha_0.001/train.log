@@ -1,0 +1,68 @@
+2018-02-25 10:48:56,487:INFO: Creating the datasets...
+2018-02-25 10:48:56,544:INFO: Creating the model...
+2018-02-25 10:48:56,865:INFO: Starting training for 10 epoch(s)
+2018-02-25 10:48:57,324:INFO: Epoch 1/10
+2018-02-25 10:54:04,210:INFO: - Train metrics: similarity:   0.643532 ; loss:   0.058299 ; similarity_progress:  -0.268498
+2018-02-25 10:54:13,071:INFO: - Eval metrics: similarity:   0.766505 ; loss:   0.016333 ; similarity_progress:  -0.145448
+2018-02-25 10:54:13,077:INFO: Epoch 2/10
+2018-02-25 10:59:19,527:INFO: - Train metrics: similarity:   0.792224 ; loss:   0.013704 ; similarity_progress:  -0.119709
+2018-02-25 10:59:28,344:INFO: - Eval metrics: similarity:   0.817304 ; loss:   0.012468 ; similarity_progress:  -0.094648
+2018-02-25 10:59:28,345:INFO: Epoch 3/10
+2018-02-25 11:04:34,546:INFO: - Train metrics: similarity:   0.828899 ; loss:   0.011450 ; similarity_progress:  -0.083184
+2018-02-25 11:04:43,531:INFO: - Eval metrics: similarity:   0.837443 ; loss:   0.010773 ; similarity_progress:  -0.074509
+2018-02-25 11:04:43,532:INFO: Epoch 4/10
+2018-02-25 11:09:50,067:INFO: - Train metrics: similarity:   0.847453 ; loss:   0.010228 ; similarity_progress:  -0.064534
+2018-02-25 11:09:58,889:INFO: - Eval metrics: similarity:   0.852427 ; loss:   0.009820 ; similarity_progress:  -0.059525
+2018-02-25 11:09:58,890:INFO: Epoch 5/10
+2018-02-25 11:15:04,518:INFO: - Train metrics: similarity:   0.860690 ; loss:   0.009297 ; similarity_progress:  -0.051308
+2018-02-25 11:15:13,517:INFO: - Eval metrics: similarity:   0.865708 ; loss:   0.008967 ; similarity_progress:  -0.046245
+2018-02-25 11:15:13,517:INFO: Epoch 6/10
+2018-02-25 11:20:19,598:INFO: - Train metrics: similarity:   0.868763 ; loss:   0.008760 ; similarity_progress:  -0.043276
+2018-02-25 11:20:28,564:INFO: - Eval metrics: similarity:   0.872438 ; loss:   0.008525 ; similarity_progress:  -0.039514
+2018-02-25 11:20:28,565:INFO: Epoch 7/10
+2018-02-25 11:25:34,629:INFO: - Train metrics: similarity:   0.873810 ; loss:   0.008439 ; similarity_progress:  -0.038171
+2018-02-25 11:25:43,608:INFO: - Eval metrics: similarity:   0.876927 ; loss:   0.008239 ; similarity_progress:  -0.035025
+2018-02-25 11:25:43,609:INFO: Epoch 8/10
+2018-02-25 11:30:49,682:INFO: - Train metrics: similarity:   0.877449 ; loss:   0.008208 ; similarity_progress:  -0.034625
+2018-02-25 11:30:58,629:INFO: - Eval metrics: similarity:   0.880046 ; loss:   0.008061 ; similarity_progress:  -0.031907
+2018-02-25 11:30:58,629:INFO: Epoch 9/10
+2018-02-25 11:36:04,546:INFO: - Train metrics: similarity:   0.880050 ; loss:   0.008042 ; similarity_progress:  -0.031964
+2018-02-25 11:36:13,362:INFO: - Eval metrics: similarity:   0.882178 ; loss:   0.007911 ; similarity_progress:  -0.029775
+2018-02-25 11:36:13,363:INFO: Epoch 10/10
+2018-02-25 11:41:19,162:INFO: - Train metrics: similarity:   0.882067 ; loss:   0.007913 ; similarity_progress:  -0.029981
+2018-02-25 11:41:27,964:INFO: - Eval metrics: similarity:   0.884037 ; loss:   0.007799 ; similarity_progress:  -0.027915
+2018-02-25 11:45:09,680:INFO: Creating the datasets...
+2018-02-25 11:45:09,737:INFO: Creating the model...
+2018-02-25 11:45:10,055:INFO: Starting training for 10 epoch(s)
+2018-02-25 11:45:10,268:INFO: Restoring parameters from experiments/model2_alpha_0.001/last_weights
+2018-02-25 11:45:10,272:INFO: Restoring parameters from experiments/model2_alpha_0.001/last_weights/after-epoch-10
+2018-02-25 11:45:10,561:INFO: Epoch 11/20
+2018-02-25 11:50:16,918:INFO: - Train metrics: similarity:   0.883693 ; loss:   0.007810 ; similarity_progress:  -0.028346
+2018-02-25 11:50:25,782:INFO: - Eval metrics: similarity:   0.885670 ; loss:   0.007702 ; similarity_progress:  -0.026283
+2018-02-25 11:50:25,788:INFO: Epoch 12/20
+2018-02-25 11:55:32,075:INFO: - Train metrics: similarity:   0.885094 ; loss:   0.007722 ; similarity_progress:  -0.026899
+2018-02-25 11:55:40,892:INFO: - Eval metrics: similarity:   0.887057 ; loss:   0.007619 ; similarity_progress:  -0.024896
+2018-02-25 11:55:40,893:INFO: Epoch 13/20
+2018-02-25 12:00:46,847:INFO: - Train metrics: similarity:   0.886403 ; loss:   0.007640 ; similarity_progress:  -0.025623
+2018-02-25 12:00:55,839:INFO: - Eval metrics: similarity:   0.888344 ; loss:   0.007558 ; similarity_progress:  -0.023609
+2018-02-25 12:00:55,839:INFO: Epoch 14/20
+2018-02-25 12:06:02,111:INFO: - Train metrics: similarity:   0.887514 ; loss:   0.007569 ; similarity_progress:  -0.024484
+2018-02-25 12:06:11,090:INFO: - Eval metrics: similarity:   0.889350 ; loss:   0.007480 ; similarity_progress:  -0.022603
+2018-02-25 12:06:11,091:INFO: Epoch 15/20
+2018-02-25 12:11:17,153:INFO: - Train metrics: similarity:   0.888568 ; loss:   0.007502 ; similarity_progress:  -0.023502
+2018-02-25 12:11:26,124:INFO: - Eval metrics: similarity:   0.890279 ; loss:   0.007407 ; similarity_progress:  -0.021674
+2018-02-25 12:11:26,125:INFO: Epoch 16/20
+2018-02-25 12:16:32,275:INFO: - Train metrics: similarity:   0.889487 ; loss:   0.007445 ; similarity_progress:  -0.022527
+2018-02-25 12:16:41,097:INFO: - Eval metrics: similarity:   0.891246 ; loss:   0.007349 ; similarity_progress:  -0.020707
+2018-02-25 12:16:41,097:INFO: Epoch 17/20
+2018-02-25 12:21:46,455:INFO: - Train metrics: similarity:   0.890509 ; loss:   0.007380 ; similarity_progress:  -0.021566
+2018-02-25 12:21:55,269:INFO: - Eval metrics: similarity:   0.892181 ; loss:   0.007280 ; similarity_progress:  -0.019772
+2018-02-25 12:21:55,270:INFO: Epoch 18/20
+2018-02-25 12:27:01,301:INFO: - Train metrics: similarity:   0.891407 ; loss:   0.007323 ; similarity_progress:  -0.020543
+2018-02-25 12:27:10,112:INFO: - Eval metrics: similarity:   0.893041 ; loss:   0.007219 ; similarity_progress:  -0.018912
+2018-02-25 12:27:10,113:INFO: Epoch 19/20
+2018-02-25 12:32:16,244:INFO: - Train metrics: similarity:   0.892334 ; loss:   0.007265 ; similarity_progress:  -0.019660
+2018-02-25 12:32:25,213:INFO: - Eval metrics: similarity:   0.893962 ; loss:   0.007161 ; similarity_progress:  -0.017990
+2018-02-25 12:32:25,213:INFO: Epoch 20/20
+2018-02-25 12:37:31,309:INFO: - Train metrics: similarity:   0.893329 ; loss:   0.007202 ; similarity_progress:  -0.018690
+2018-02-25 12:37:40,148:INFO: - Eval metrics: similarity:   0.894855 ; loss:   0.007098 ; similarity_progress:  -0.017098
