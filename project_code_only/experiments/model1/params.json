@@ -3,7 +3,7 @@
     "batch_size": 32,
     "num_epochs": 50,
 
-    "num_channels": 3,
+    "num_channels": 8,
     "use_batch_norm": true,
     "bn_momentum": 0.9,
     "image_size": 256,
