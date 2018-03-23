@@ -1,0 +1,139 @@
+2018-03-19 23:49:21,260:INFO: Creating the datasets...
+2018-03-19 23:49:21,360:INFO: Creating the model...
+2018-03-19 23:49:22,776:INFO: Starting training for 50 epoch(s)
+2018-03-19 23:49:25,475:INFO: Epoch 1/50
+2018-03-19 23:52:30,122:INFO: - Train metrics: similarity:   0.563542 ; loss:   0.014014 ; similarity_progress:  -0.293926
+2018-03-19 23:52:38,589:INFO: - Eval metrics: similarity:   0.613916 ; loss:   0.012399 ; similarity_progress:  -0.243639
+2018-03-19 23:52:38,607:INFO: Epoch 2/50
+2018-03-19 23:55:38,517:INFO: - Train metrics: similarity:   0.617306 ; loss:   0.011905 ; similarity_progress:  -0.239995
+2018-03-19 23:55:45,127:INFO: - Eval metrics: similarity:   0.619369 ; loss:   0.013893 ; similarity_progress:  -0.238185
+2018-03-19 23:55:45,128:INFO: Epoch 3/50
+2018-03-19 23:58:45,829:INFO: - Train metrics: similarity:   0.623365 ; loss:   0.011751 ; similarity_progress:  -0.233958
+2018-03-19 23:58:52,447:INFO: - Eval metrics: similarity:   0.619158 ; loss:   0.015364 ; similarity_progress:  -0.238397
+2018-03-19 23:58:52,448:INFO: Epoch 4/50
+2018-03-20 00:01:52,787:INFO: - Train metrics: similarity:   0.837900 ; loss:   0.005884 ; similarity_progress:  -0.019612
+2018-03-20 00:01:59,451:INFO: - Eval metrics: similarity:   0.870756 ; loss:   0.005523 ; similarity_progress:   0.013202
+2018-03-20 00:01:59,794:INFO: - Found new best similarity_progress, saving in experiments/Unet512_c8/best_weights/after-epoch-4
+2018-03-20 00:01:59,794:INFO: Epoch 5/50
+2018-03-20 00:04:59,813:INFO: - Train metrics: similarity:   0.882953 ; loss:   0.004252 ; similarity_progress:   0.025551
+2018-03-20 00:05:06,694:INFO: - Eval metrics: similarity:   0.872606 ; loss:   0.009240 ; similarity_progress:   0.015051
+2018-03-20 00:05:06,979:INFO: - Found new best similarity_progress, saving in experiments/Unet512_c8/best_weights/after-epoch-5
+2018-03-20 00:05:06,980:INFO: Epoch 6/50
+2018-03-20 00:08:04,724:INFO: - Train metrics: similarity:   0.885993 ; loss:   0.004120 ; similarity_progress:   0.028579
+2018-03-20 00:08:11,353:INFO: - Eval metrics: similarity:   0.884093 ; loss:   0.004454 ; similarity_progress:   0.026538
+2018-03-20 00:08:11,648:INFO: - Found new best similarity_progress, saving in experiments/Unet512_c8/best_weights/after-epoch-6
+2018-03-20 00:08:11,648:INFO: Epoch 7/50
+2018-03-20 00:11:11,805:INFO: - Train metrics: similarity:   0.886908 ; loss:   0.004082 ; similarity_progress:   0.029531
+2018-03-20 00:11:18,456:INFO: - Eval metrics: similarity:   0.882089 ; loss:   0.004501 ; similarity_progress:   0.024534
+2018-03-20 00:11:18,457:INFO: Epoch 8/50
+2018-03-20 00:14:18,755:INFO: - Train metrics: similarity:   0.887701 ; loss:   0.004050 ; similarity_progress:   0.030326
+2018-03-20 00:14:25,652:INFO: - Eval metrics: similarity:   0.884783 ; loss:   0.004409 ; similarity_progress:   0.027228
+2018-03-20 00:14:25,937:INFO: - Found new best similarity_progress, saving in experiments/Unet512_c8/best_weights/after-epoch-8
+2018-03-20 00:14:25,938:INFO: Epoch 9/50
+2018-03-20 00:17:26,161:INFO: - Train metrics: similarity:   0.888752 ; loss:   0.004010 ; similarity_progress:   0.031273
+2018-03-20 00:17:33,037:INFO: - Eval metrics: similarity:   0.887112 ; loss:   0.004167 ; similarity_progress:   0.029557
+2018-03-20 00:17:33,321:INFO: - Found new best similarity_progress, saving in experiments/Unet512_c8/best_weights/after-epoch-9
+2018-03-20 00:17:33,322:INFO: Epoch 10/50
+2018-03-20 00:20:33,444:INFO: - Train metrics: similarity:   0.889276 ; loss:   0.003994 ; similarity_progress:   0.031766
+2018-03-20 00:20:40,080:INFO: - Eval metrics: similarity:   0.885103 ; loss:   0.004728 ; similarity_progress:   0.027549
+2018-03-20 00:20:40,081:INFO: Epoch 11/50
+2018-03-20 00:23:40,054:INFO: - Train metrics: similarity:   0.889987 ; loss:   0.003969 ; similarity_progress:   0.032454
+2018-03-20 00:23:46,682:INFO: - Eval metrics: similarity:   0.881622 ; loss:   0.004370 ; similarity_progress:   0.024068
+2018-03-20 00:23:46,683:INFO: Epoch 12/50
+2018-03-20 00:26:47,045:INFO: - Train metrics: similarity:   0.890358 ; loss:   0.003954 ; similarity_progress:   0.032815
+2018-03-20 00:26:53,678:INFO: - Eval metrics: similarity:   0.891778 ; loss:   0.003951 ; similarity_progress:   0.034223
+2018-03-20 00:26:53,961:INFO: - Found new best similarity_progress, saving in experiments/Unet512_c8/best_weights/after-epoch-12
+2018-03-20 00:26:53,961:INFO: Epoch 13/50
+2018-03-20 00:29:54,650:INFO: - Train metrics: similarity:   0.890577 ; loss:   0.003946 ; similarity_progress:   0.033088
+2018-03-20 00:30:01,311:INFO: - Eval metrics: similarity:   0.873154 ; loss:   0.006953 ; similarity_progress:   0.015600
+2018-03-20 00:30:01,312:INFO: Epoch 14/50
+2018-03-20 00:33:26,011:INFO: - Train metrics: similarity:   0.890744 ; loss:   0.003937 ; similarity_progress:   0.033329
+2018-03-20 00:33:33,658:INFO: - Eval metrics: similarity:   0.790878 ; loss:   0.007323 ; similarity_progress:  -0.066677
+2018-03-20 00:33:33,659:INFO: Epoch 15/50
+2018-03-20 00:37:19,612:INFO: - Train metrics: similarity:   0.890962 ; loss:   0.003933 ; similarity_progress:   0.033511
+2018-03-20 00:37:31,088:INFO: - Eval metrics: similarity:   0.774471 ; loss:   0.010286 ; similarity_progress:  -0.083084
+2018-03-20 00:37:31,090:INFO: Epoch 16/50
+2018-03-20 00:41:11,568:INFO: - Train metrics: similarity:   0.891655 ; loss:   0.003911 ; similarity_progress:   0.034229
+2018-03-20 00:41:19,632:INFO: - Eval metrics: similarity:   0.813139 ; loss:   0.009108 ; similarity_progress:  -0.044416
+2018-03-20 00:41:19,633:INFO: Epoch 17/50
+2018-03-20 00:44:21,801:INFO: - Train metrics: similarity:   0.893213 ; loss:   0.003855 ; similarity_progress:   0.035681
+2018-03-20 00:44:28,456:INFO: - Eval metrics: similarity:   0.892248 ; loss:   0.003946 ; similarity_progress:   0.034693
+2018-03-20 00:44:28,745:INFO: - Found new best similarity_progress, saving in experiments/Unet512_c8/best_weights/after-epoch-17
+2018-03-20 00:44:28,747:INFO: Epoch 18/50
+2018-03-20 00:47:29,685:INFO: - Train metrics: similarity:   0.893711 ; loss:   0.003836 ; similarity_progress:   0.036144
+2018-03-20 00:47:36,339:INFO: - Eval metrics: similarity:   0.894057 ; loss:   0.003886 ; similarity_progress:   0.036503
+2018-03-20 00:47:36,628:INFO: - Found new best similarity_progress, saving in experiments/Unet512_c8/best_weights/after-epoch-18
+2018-03-20 00:47:36,629:INFO: Epoch 19/50
+2018-03-20 00:50:37,124:INFO: - Train metrics: similarity:   0.893874 ; loss:   0.003829 ; similarity_progress:   0.036370
+2018-03-20 00:50:43,759:INFO: - Eval metrics: similarity:   0.887569 ; loss:   0.004149 ; similarity_progress:   0.030014
+2018-03-20 00:50:43,760:INFO: Epoch 20/50
+2018-03-20 00:53:42,873:INFO: - Train metrics: similarity:   0.894227 ; loss:   0.003819 ; similarity_progress:   0.036688
+2018-03-20 00:53:50,013:INFO: - Eval metrics: similarity:   0.879240 ; loss:   0.004939 ; similarity_progress:   0.021685
+2018-03-20 00:53:50,014:INFO: Epoch 21/50
+2018-03-20 00:56:53,575:INFO: - Train metrics: similarity:   0.894222 ; loss:   0.003816 ; similarity_progress:   0.036766
+2018-03-20 00:57:00,242:INFO: - Eval metrics: similarity:   0.889884 ; loss:   0.004079 ; similarity_progress:   0.032329
+2018-03-20 00:57:00,243:INFO: Epoch 22/50
+2018-03-20 00:59:59,618:INFO: - Train metrics: similarity:   0.894245 ; loss:   0.003818 ; similarity_progress:   0.036826
+2018-03-20 01:00:06,277:INFO: - Eval metrics: similarity:   0.894804 ; loss:   0.003856 ; similarity_progress:   0.037250
+2018-03-20 01:00:06,559:INFO: - Found new best similarity_progress, saving in experiments/Unet512_c8/best_weights/after-epoch-22
+2018-03-20 01:00:06,560:INFO: Epoch 23/50
+2018-03-20 01:03:04,426:INFO: - Train metrics: similarity:   0.894661 ; loss:   0.003804 ; similarity_progress:   0.037195
+2018-03-20 01:03:11,079:INFO: - Eval metrics: similarity:   0.874916 ; loss:   0.006065 ; similarity_progress:   0.017361
+2018-03-20 01:03:11,080:INFO: Epoch 24/50
+2018-03-20 01:06:11,552:INFO: - Train metrics: similarity:   0.895084 ; loss:   0.003790 ; similarity_progress:   0.037604
+2018-03-20 01:06:18,366:INFO: - Eval metrics: similarity:   0.886131 ; loss:   0.004646 ; similarity_progress:   0.028576
+2018-03-20 01:06:18,367:INFO: Epoch 25/50
+2018-03-20 01:09:17,245:INFO: - Train metrics: similarity:   0.896108 ; loss:   0.003755 ; similarity_progress:   0.038668
+2018-03-20 01:09:23,920:INFO: - Eval metrics: similarity:   0.886092 ; loss:   0.005768 ; similarity_progress:   0.028537
+2018-03-20 01:09:23,921:INFO: Epoch 26/50
+2018-03-20 01:12:24,712:INFO: - Train metrics: similarity:   0.896882 ; loss:   0.003728 ; similarity_progress:   0.039397
+2018-03-20 01:12:31,494:INFO: - Eval metrics: similarity:   0.892351 ; loss:   0.003950 ; similarity_progress:   0.034796
+2018-03-20 01:12:31,495:INFO: Epoch 27/50
+2018-03-20 01:15:32,458:INFO: - Train metrics: similarity:   0.897653 ; loss:   0.003696 ; similarity_progress:   0.040126
+2018-03-20 01:15:39,351:INFO: - Eval metrics: similarity:   0.897226 ; loss:   0.003758 ; similarity_progress:   0.039672
+2018-03-20 01:15:39,645:INFO: - Found new best similarity_progress, saving in experiments/Unet512_c8/best_weights/after-epoch-27
+2018-03-20 01:15:39,646:INFO: Epoch 28/50
+2018-03-20 01:18:40,353:INFO: - Train metrics: similarity:   0.898164 ; loss:   0.003677 ; similarity_progress:   0.040583
+2018-03-20 01:18:47,009:INFO: - Eval metrics: similarity:   0.887968 ; loss:   0.005424 ; similarity_progress:   0.030413
+2018-03-20 01:18:47,010:INFO: Epoch 29/50
+2018-03-20 01:21:45,250:INFO: - Train metrics: similarity:   0.898175 ; loss:   0.003678 ; similarity_progress:   0.040718
+2018-03-20 01:21:52,058:INFO: - Eval metrics: similarity:   0.893019 ; loss:   0.003979 ; similarity_progress:   0.035465
+2018-03-20 01:21:52,059:INFO: Epoch 30/50
+2018-03-20 01:24:51,609:INFO: - Train metrics: similarity:   0.898926 ; loss:   0.003653 ; similarity_progress:   0.041370
+2018-03-20 01:24:58,407:INFO: - Eval metrics: similarity:   0.887076 ; loss:   0.004526 ; similarity_progress:   0.029521
+2018-03-20 01:24:58,408:INFO: Epoch 31/50
+2018-03-20 01:27:59,085:INFO: - Train metrics: similarity:   0.899177 ; loss:   0.003645 ; similarity_progress:   0.041696
+2018-03-20 01:28:05,796:INFO: - Eval metrics: similarity:   0.869920 ; loss:   0.007596 ; similarity_progress:   0.012366
+2018-03-20 01:28:05,797:INFO: Epoch 32/50
+2018-03-20 01:31:06,388:INFO: - Train metrics: similarity:   0.899895 ; loss:   0.003619 ; similarity_progress:   0.042349
+2018-03-20 01:31:13,069:INFO: - Eval metrics: similarity:   0.897348 ; loss:   0.003768 ; similarity_progress:   0.039794
+2018-03-20 01:31:13,578:INFO: - Found new best similarity_progress, saving in experiments/Unet512_c8/best_weights/after-epoch-32
+2018-03-20 01:31:13,579:INFO: Epoch 33/50
+2018-03-20 01:34:13,896:INFO: - Train metrics: similarity:   0.899756 ; loss:   0.003626 ; similarity_progress:   0.042313
+2018-03-20 01:34:20,582:INFO: - Eval metrics: similarity:   0.862438 ; loss:   0.005114 ; similarity_progress:   0.004883
+2018-03-20 01:34:20,582:INFO: Epoch 34/50
+2018-03-20 01:37:18,793:INFO: - Train metrics: similarity:   0.898657 ; loss:   0.003671 ; similarity_progress:   0.041356
+2018-03-20 01:37:25,478:INFO: - Eval metrics: similarity:   0.896247 ; loss:   0.004132 ; similarity_progress:   0.038693
+2018-03-20 01:37:25,479:INFO: Epoch 35/50
+2018-03-20 01:40:24,359:INFO: - Train metrics: similarity:   0.900421 ; loss:   0.003599 ; similarity_progress:   0.042957
+2018-03-20 01:40:31,155:INFO: - Eval metrics: similarity:   0.888603 ; loss:   0.004891 ; similarity_progress:   0.031049
+2018-03-20 01:40:31,156:INFO: Epoch 36/50
+2018-03-20 01:43:32,310:INFO: - Train metrics: similarity:   0.900249 ; loss:   0.003610 ; similarity_progress:   0.042877
+2018-03-20 01:43:38,975:INFO: - Eval metrics: similarity:   0.881663 ; loss:   0.005532 ; similarity_progress:   0.024108
+2018-03-20 01:43:38,976:INFO: Epoch 37/50
+2018-03-20 01:46:39,663:INFO: - Train metrics: similarity:   0.901075 ; loss:   0.003578 ; similarity_progress:   0.043539
+2018-03-20 01:46:46,345:INFO: - Eval metrics: similarity:   0.878352 ; loss:   0.007249 ; similarity_progress:   0.020797
+2018-03-20 01:46:46,346:INFO: Epoch 38/50
+2018-03-20 01:49:47,200:INFO: - Train metrics: similarity:   0.900810 ; loss:   0.003588 ; similarity_progress:   0.043374
+2018-03-20 01:49:53,846:INFO: - Eval metrics: similarity:   0.875653 ; loss:   0.007187 ; similarity_progress:   0.018099
+2018-03-20 01:49:53,847:INFO: Epoch 39/50
+2018-03-20 01:52:52,977:INFO: - Train metrics: similarity:   0.901602 ; loss:   0.003559 ; similarity_progress:   0.044029
+2018-03-20 01:52:59,627:INFO: - Eval metrics: similarity:   0.895962 ; loss:   0.004370 ; similarity_progress:   0.038407
+2018-03-20 01:52:59,628:INFO: Epoch 40/50
+2018-03-20 01:55:58,922:INFO: - Train metrics: similarity:   0.900994 ; loss:   0.003579 ; similarity_progress:   0.043619
+2018-03-20 01:56:05,984:INFO: - Eval metrics: similarity:   0.891746 ; loss:   0.004377 ; similarity_progress:   0.034192
+2018-03-20 01:56:05,985:INFO: Epoch 41/50
+2018-03-20 01:59:06,741:INFO: - Train metrics: similarity:   0.901329 ; loss:   0.003566 ; similarity_progress:   0.043867
+2018-03-20 01:59:13,399:INFO: - Eval metrics: similarity:   0.897997 ; loss:   0.003864 ; similarity_progress:   0.040442
+2018-03-20 01:59:13,682:INFO: - Found new best similarity_progress, saving in experiments/Unet512_c8/best_weights/after-epoch-41
+2018-03-20 01:59:13,683:INFO: Epoch 42/50

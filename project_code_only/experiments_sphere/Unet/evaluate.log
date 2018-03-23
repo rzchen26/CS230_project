@@ -1,0 +1,6 @@
+2018-03-18 15:29:05,044:INFO: Creating the dataset...
+2018-03-18 15:29:05,093:INFO: Creating the model...
+2018-03-18 15:29:05,331:INFO: Starting evaluation
+2018-03-18 15:29:05,516:INFO: Restoring parameters from experiments/Unet/best_weights/after-epoch-167
+2018-03-18 15:29:05,746:INFO: Restoring parameters from experiments/Unet/best_weights/after-epoch-167
+2018-03-18 15:29:05,883:INFO: Restoring parameters from experiments/Unet/best_weights/after-epoch-167

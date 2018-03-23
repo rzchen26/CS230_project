@@ -1,0 +1,6 @@
+2018-03-17 14:00:32,971:INFO: Creating the dataset...
+2018-03-17 14:00:33,013:INFO: Creating the model...
+2018-03-17 14:00:33,107:INFO: Starting evaluation
+2018-03-17 14:00:33,161:INFO: Restoring parameters from experiments/base_model/last_weights/after-epoch-151
+2018-03-17 14:00:33,292:INFO: Restoring parameters from experiments/base_model/last_weights/after-epoch-151
+2018-03-17 14:00:33,325:INFO: Restoring parameters from experiments/base_model/last_weights/after-epoch-151
